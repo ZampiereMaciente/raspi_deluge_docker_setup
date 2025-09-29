@@ -54,7 +54,8 @@ With just one script, your Raspberry Pi will be ready to download torrents direc
 3. Run the script:
    ```bash
    ./setup-deluge.sh
---
+   
+---
 
 ## ▶️ Usage After Installation
 
@@ -80,7 +81,7 @@ Here are the commands you’ll need most often:
    docker compose pull
    docker compose up -d
 
---
+---
 
 ## 🌍 Access Deluge WebUI
 
